@@ -14,3 +14,5 @@ Customizable Templates: Choose from a variety of professional templates that can
 3. **Receive AI Suggestions:**  Our AI will provide suggestions to enhance your resume.
 4. **Customize Your Resume:** Choose a template and customize it to match your preferences.
 5. **Download and Apply:** Once satisfied, download your resume and start applying for jobs!
+
+The application can be accessed at: easyres-green.vercel.app
