@@ -39,7 +39,7 @@ const HandleDownload=()=>{
                 Your resume is ready for download and sharing.
             </p>
             
-            <div className='flex items-center px-44 my-10'>
+            <div className='flex justify-center items-center px-44 my-10'>
                 <Button onClick={HandleDownload}>Download</Button>
                { /*<RWebShare
                     data={{
