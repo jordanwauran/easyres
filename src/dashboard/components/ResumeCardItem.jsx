@@ -59,7 +59,7 @@ function ResumeCardItem({resume,refreshData}) {
               <div className='flex 
         items-center justify-center h-[180px] '>
                 {/* <Notebook/> */}
-                <img src="../../public/cv.png" width={80} height={80} alt='CV'/>
+                <img src="/cv.png" width={80} height={80} alt='CV'/>
               </div>
         </div>
         </Link>
