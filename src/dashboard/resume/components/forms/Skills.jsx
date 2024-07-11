@@ -1,6 +1,5 @@
 import { Input } from '@/components/ui/input'
 import React, { useContext, useEffect, useState } from 'react'
-import '@smastrom/react-rating/style.css'
 import { Button } from '@/components/ui/button'
 import { useParams } from 'react-router-dom'
 import { ResumeInfoContext } from '@/context/ResumeInfoContext'
