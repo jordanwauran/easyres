@@ -39,9 +39,9 @@ const HandleDownload=()=>{
                 Your resume is ready for download and sharing.
             </p>
             
-            <div className='flex justify-between px-44 my-10'>
+            <div className='flex items-center px-44 my-10'>
                 <Button onClick={HandleDownload}>Download</Button>
-               { <RWebShare
+               { /*<RWebShare
                     data={{
                     text: "Hello, This is my resume. Please open the URL to view.",
                     url: "https://easyres-strapi-admin.onrender.com/my-resume/"+resumeId+"/view",
@@ -49,7 +49,7 @@ const HandleDownload=()=>{
                     }}
                     onClick={() => console.log("shared successfully!")}
                 > <Button>Share</Button>
-                </RWebShare>  }  
+                </RWebShare>  */}  
             </div>
         </div>
         </div>        
