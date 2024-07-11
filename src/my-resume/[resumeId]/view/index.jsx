@@ -41,15 +41,15 @@ const HandleDownload=()=>{
             
             <div className='flex justify-between px-44 my-10'>
                 <Button onClick={HandleDownload}>Download</Button>
-               {/* <RWebShare
+               { <RWebShare
                     data={{
                     text: "Hello, This is my resume. Please open the URL to view.",
-                    url: import.meta.env.VITE_BASE_URL+"/my-resume/"+resumeId+"/view",
+                    url: "https://easyres-strapi-admin.onrender.com/my-resume/"+resumeId+"/view",
                     title: resumeInfo?.firstName+" "+resumeInfo?.lastName+" resume.",
                     }}
                     onClick={() => console.log("shared successfully!")}
                 > <Button>Share</Button>
-                </RWebShare>  */}  
+                </RWebShare>  }  
             </div>
         </div>
         </div>        
