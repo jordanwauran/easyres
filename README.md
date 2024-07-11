@@ -1,8 +1,4 @@
-# EasyRes
+# EasyRes: An AI-Powered Resume builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Overview
+Welcome to the AI-Powered Resume Builder! This online application leverages advanced artificial intelligence algorithms to assist users in crafting professional and impactful resumes. Whether you're a fresh graduate, a seasoned professional, or transitioning careers, our tool simplifies the resume-building process, ensuring you present your skills and experience in the best possible light.
